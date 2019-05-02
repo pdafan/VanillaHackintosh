@@ -13,3 +13,9 @@ Working
 Sleep, Wake, Restart, Shutdown
 Audio
 USB
+
+Create a High Sierra USB 
+Install Clover on USB
+Copy EFI folder over the one in USB
+Boot your PC up with the USB stick.
+Install your High Sierra on SSD.
