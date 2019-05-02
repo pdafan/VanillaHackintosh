@@ -1,0 +1,2 @@
+# VanillaHackintosh
+For educational purpose
