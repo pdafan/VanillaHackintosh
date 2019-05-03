@@ -8,6 +8,12 @@ For educational purpose
 For High Sierra 10.13.6 (17G6030)
 Note that earlier minor versions of 10.13.6 has "Graphics Driver failed to load. Could not register with Framebuffer driver" issue with iGPU (UHD 630).
 
+<B> Discovery </B>
+- EmuVariableUefi-64.efi 
+-- is required for your FaceTime or iMessage to work
+- ApfsDriverLoader-64.efi
+-- is required if you are going for Mojave or APFS (10.13.6)
+
 <B> Working </b>
 - Sleep, Wake, Restart, Shutdown
 - Audio
